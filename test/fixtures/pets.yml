@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  especie: MyString
+  raca: MyString
+  idade: 1
+  tamanho: MyString
+  peso: 9.99
+  tutor: one
+
+two:
+  nome: MyString
+  especie: MyString
+  raca: MyString
+  idade: 1
+  tamanho: MyString
+  peso: 9.99
+  tutor: two

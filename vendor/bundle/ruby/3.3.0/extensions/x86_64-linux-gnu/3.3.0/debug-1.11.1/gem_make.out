@@ -1,0 +1,19 @@
+current directory: /home/gui/rails_saep/saep/vendor/bundle/ruby/3.3.0/gems/debug-1.11.1/ext/debug
+/usr/bin/ruby3.3 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/gui/rails_saep/saep/vendor/bundle/ruby/3.3.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20261126-64522-a52jql sitelibdir\=./.gem.20261126-64522-a52jql clean
+
+current directory: /home/gui/rails_saep/saep/vendor/bundle/ruby/3.3.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20261126-64522-a52jql sitelibdir\=./.gem.20261126-64522-a52jql
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/gui/rails_saep/saep/vendor/bundle/ruby/3.3.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20261126-64522-a52jql sitelibdir\=./.gem.20261126-64522-a52jql install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20261126-64522-a52jql/debug
+
+current directory: /home/gui/rails_saep/saep/vendor/bundle/ruby/3.3.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20261126-64522-a52jql sitelibdir\=./.gem.20261126-64522-a52jql clean

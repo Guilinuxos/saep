@@ -1,0 +1,19 @@
+current directory: /home/gui/rails_saep/saep/vendor/bundle/ruby/3.3.0/gems/erb-6.0.7/ext/erb/escape
+/usr/bin/ruby3.3 -I/usr/lib/ruby/vendor_ruby extconf.rb
+checking for rb_ext_ractor_safe() in ruby.h... yes
+creating Makefile
+
+current directory: /home/gui/rails_saep/saep/vendor/bundle/ruby/3.3.0/gems/erb-6.0.7/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20261126-64522-3xgvdv sitelibdir\=./.gem.20261126-64522-3xgvdv clean
+
+current directory: /home/gui/rails_saep/saep/vendor/bundle/ruby/3.3.0/gems/erb-6.0.7/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20261126-64522-3xgvdv sitelibdir\=./.gem.20261126-64522-3xgvdv
+compiling escape.c
+linking shared-object erb/escape.so
+
+current directory: /home/gui/rails_saep/saep/vendor/bundle/ruby/3.3.0/gems/erb-6.0.7/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20261126-64522-3xgvdv sitelibdir\=./.gem.20261126-64522-3xgvdv install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20261126-64522-3xgvdv/erb
+
+current directory: /home/gui/rails_saep/saep/vendor/bundle/ruby/3.3.0/gems/erb-6.0.7/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20261126-64522-3xgvdv sitelibdir\=./.gem.20261126-64522-3xgvdv clean
