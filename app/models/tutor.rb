@@ -5,7 +5,7 @@ class Tutor < ApplicationRecord
 
   encrypts :cpf, deterministic: true
 
-  validates :cpf,  presence: true, uniqueness: true, lenght: { is: 11 }
+  validates :cpf,  presence: true, uniqueness: true, length: { is: 11 }
 
 
 
